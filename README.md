@@ -1,7 +1,11 @@
 # GPIO_Jetson
 
+Requirments:
 
+sudo apt-get install i2c-tools libi2c-dev 
 sudo pip install netifaces
+sudo pip install pysmbus 
+
 
 Support  and examples for Grove - LCD RGB Backlight  for Jetson Platforms
 
