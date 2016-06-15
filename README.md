@@ -1,9 +1,11 @@
 # GPIO_Jetson
 
-Requirments:
+*Requirments:*
 
 sudo apt-get install i2c-tools libi2c-dev 
+
 sudo pip install netifaces
+
 sudo pip install pysmbus 
 
 
